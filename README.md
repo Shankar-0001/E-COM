@@ -3,11 +3,10 @@
 
 ## Introduction
 
-This eCommerce application is built using React and provides a platform for users to browse products, add them to their cart, and complete the purchase process. It features a modern user interface, secure authentication, and a fully functional shopping cart.
+This eCommerce application is built using React and provides a platform for users to browse products, add them to their cart, and complete the purchase process. It features a modern user interface, secure authentication, and a fully functional shopping cart check <a href="https://e-com-shop-app.vercel.app/">React App</a>.
 
 ### Features
 
-<li>User authentication (signup, login)</li>
 <li>Product detail view</li>
 <li>Shopping cart management</li>
 <li>Responsive design</li>
