@@ -51,10 +51,5 @@ Contributions are welcome!
 <li>Push to the branch</li>
 <li>Open a pull request.</li>
 
-### Contact
 
-If you have any questions or feedback, please reach out to:
-
-<li>GitHub - @https://github.com/Shankar-0001</li>
-<li>LinkedIn - https://www.linkedin.com/in/shankar-ravidas-2a4171207/</li>
 
