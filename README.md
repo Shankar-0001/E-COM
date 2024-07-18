@@ -39,8 +39,7 @@ Once the application is running, you can:
 ### Screenshots
 For visual appealing you can see all screenshots.
 
-![Home Page](https://drive.google.com/file/d/1mXKSNz8BKxMPVGeMSnIuX5ldZkbQ7mRX/view?usp=sharing)
-![Cart Page](https://drive.google.com/file/d/141_qS95hd0LkrGZhlJ6hplxxDQ2Vlsct/view?usp=sharing)
+
 
 ### Contributing
 
